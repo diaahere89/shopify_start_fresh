@@ -1,3 +1,6 @@
+# shopify_start_fresh
+Shopify starter theme by Hujjat
+
 # Shopify Starter Theme
 
 Shopify Starter Theme.  Based on Laravel-mix and ThemeKit.
